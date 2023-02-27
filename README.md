@@ -1,1 +1,10 @@
-# TWRP device tree for Galaxy Tab A 10.1 LTE (2016 Exynos)
+# Android device tree for samsung SM-T585 (gtaxllte)
+
+```
+#
+# Copyright (C) 2023 The Android Open Source Project
+# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
